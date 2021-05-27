@@ -1,4 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Jimmy'sGithub)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Jimmy's%20Github)
+
+<div align='center'>
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
+</div>
+
 
 <!--
 **ByoungilYoun/ByoungilYoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
