@@ -1,6 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Jimmy's%20Github)
 
 <div align='center'>
+  Welcome 🙌🏻
+</div>
+<div align='center'>
+
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
 </div>
 
