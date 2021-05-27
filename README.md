@@ -16,15 +16,15 @@
   - 🌱 I’m currently learning MVVM, RXSwift, Swift DataSource & Algorithm.  
  
   
-<div align='center'>
   
-[![Jimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByoungilYoun&show_icons=true&theme=blueberry)](https://github.com/ByoungilYoun/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByoungilYoun&layout=compact&show_icons=true&theme=blueberry)](https://github.com/ByoungilYoun/github-readme-stats)
 
-</div> 
+[![Jimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByoungilYoun&show_icons=true&theme=blueberry)](https://github.com/ByoungilYoun/github-readme-stats) 
 
 
 <!--
 **ByoungilYoun/ByoungilYoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByoungilYoun&layout=compact&show_icons=true&theme=blueberry)](https://github.com/ByoungilYoun/github-readme-stats)
 
 Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
