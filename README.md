@@ -6,7 +6,8 @@
   <img alt="Xcode" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"/>
   <img alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
   <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
-  <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
+  <a href="https://www.notion.so/byoungilyoun/Youn-s-Notion-1e32ae94d09e40ff9be300d4cd0cbbb6"><img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
+  
   
 [![Jimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByoungilYoun&show_icons=true&theme=blueberry)](https://github.com/ByoungilYoun/github-readme-stats)
 
