@@ -12,13 +12,12 @@
 
 ### Welcome 🙌🏻  
 
-  - 🔭 I’m currently working on writing clean code
+  - 🔭 I’m currently working on writing clean code.  
   - 🌱 I’m currently learning MVVM, RXSwift, Swift DataSource & Algorithm.  
- 
-  
+  - 👨🏻‍💻 I'm writing my memory in my blog https://jimmy7525.tistory.com
+  - ✉️ You can contact me jimmy7525@naver.com
   
 
-[![Jimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByoungilYoun&show_icons=true&theme=blueberry)](https://github.com/ByoungilYoun/github-readme-stats) 
 
 
 <!--
@@ -27,6 +26,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByoungilYoun&layout=compact&show_icons=true&theme=blueberry)](https://github.com/ByoungilYoun/github-readme-stats)
 
  <a href="https://www.notion.so/byoungilyoun/Youn-s-Notion-1e32ae94d09e40ff9be300d4cd0cbbb6"><img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>.  -> 노션 뱃지
+
+[![Jimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByoungilYoun&show_icons=true&theme=blueberry)](https://github.com/ByoungilYoun/github-readme-stats) -> github stats 
+
 
 Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
