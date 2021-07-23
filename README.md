@@ -1,5 +1,17 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Jimmy's%20Workspace)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Jimmy's%20Workspace) -->
 
+
+
+### Welcome 🙌🏻  
+
+  - 🔭 I’m currently working on writing clean code.  
+  - 🌱 I’m currently learning MVVM, RXSwift, Swift DataSource & Algorithm.  
+  - 👨🏻‍💻 I'm writing my memory in my blog https://jimmy7525.tistory.com
+  - ✉️ You can contact me jimmy7525@naver.com
+
+
+ 
+ 
 <div align='center'>
   
   <img alt="Swift" src="https://img.shields.io/badge/swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white"/>
@@ -9,15 +21,6 @@
  
   
 </div>  
-
-### Welcome 🙌🏻  
-
-  - 🔭 I’m currently working on writing clean code.  
-  - 🌱 I’m currently learning MVVM, RXSwift, Swift DataSource & Algorithm.  
-  - 👨🏻‍💻 I'm writing my memory in my blog https://jimmy7525.tistory.com
-  - ✉️ You can contact me jimmy7525@naver.com
-  
-
 
 
 <!--
