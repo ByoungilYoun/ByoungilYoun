@@ -7,6 +7,7 @@
   - 🔭 I’m currently working on writing clean code.  
   - 🌱 I’m currently learning MVVM, RXSwift, Swift DataSource & Algorithm.  
   - 👨🏻‍💻 I'm writing my memory in my blog https://jimmy7525.tistory.com
+  - 📄 You can check my portfolio [here](https://byoungilyoun.notion.site/Jimmy-iOS-Developer-7601790094094c50ab04837352dd5c58)
   - ✉️ You can contact me jimmy7525@naver.com
 
 
