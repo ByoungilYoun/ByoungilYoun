@@ -4,8 +4,8 @@
 
 ### Welcome 🙌🏻  
 
-  - 🔭 I’m currently working on writing clean code.  
-  - 📄 You can check my portfolio [here](https://byoungilyoun.notion.site/Jimmy-iOS-Developer-7601790094094c50ab04837352dd5c58)
+  - 🔭 I like to write clean code.  
+  - 📄 You can check my portfolio [here](https://byoungilyoun.notion.site/iOS-Developer-2b1c0f6d0743800f96cecbba7fec7247)
   - ✉️ You can contact me jimmy7525@naver.com
 
 
