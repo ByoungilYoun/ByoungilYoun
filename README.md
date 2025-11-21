@@ -4,22 +4,22 @@
 
 ### Welcome 🙌🏻  
 
-  - 🔭 I like to write clean code.  
+  - 🔭 I like to write clean code.
   - 📄 You can check my portfolio [here](https://byoungilyoun.notion.site/iOS-Developer-2b1c0f6d0743800f96cecbba7fec7247)
   - ✉️ You can contact me jimmy7525@naver.com
 
 
  
  
-<div align='center'>
+<!-- <div align='center'> -->
   
-  <img alt="Swift" src="https://img.shields.io/badge/swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img alt="Xcode" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"/>
-  <img alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
-  <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
+ <!-- <img alt="Swift" src="https://img.shields.io/badge/swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white"/> -->
+ <!-- <img alt="Xcode" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"/> -->
+ <!-- <img alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"> -->
+ <!-- <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/> -->
  
   
-</div>  
+<!-- </div>   -->
 
 
 <!--
